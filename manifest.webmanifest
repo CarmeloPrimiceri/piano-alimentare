@@ -1,0 +1,18 @@
+{
+  "name": "Piano Alimentare",
+  "short_name": "Piano Alimentare",
+  "description": "Il piano del nutrizionista giorno per giorno: pasti, consigli e lista della spesa.",
+  "lang": "it",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F6F8F5",
+  "theme_color": "#2E7D32",
+  "icons": [
+    { "src": "icone/icona-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icone/icona-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icone/icona-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
